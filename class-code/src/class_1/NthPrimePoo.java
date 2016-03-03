@@ -1,3 +1,5 @@
+package class_1;
+
 public class NthPrimePoo {
 
   int[] primes;

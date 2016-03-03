@@ -1,3 +1,5 @@
+package class_1;
+
 public class NthPrimeNotPoo {
   
   private static int[] primes;

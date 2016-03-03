@@ -6,6 +6,8 @@
 // Prof. Marcelo Finger
 // Fellipe Souto Sampaio - 7990422
 
+package class_2;
+
 import java.math.BigInteger;
 
 class BigIntFactorial {
