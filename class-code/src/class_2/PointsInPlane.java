@@ -6,6 +6,8 @@
 // Prof. Marcelo Finger
 // Fellipe Souto Sampaio - 7990422 
 
+package class_2;
+
 class Point {
 	private double x;
 	private double y;

@@ -6,6 +6,8 @@
 // Prof. Marcelo Finger
 // Fellipe Souto Sampaio - 7990422
 
+package class_2;
+
 public class HelloWorldNao {
 	public static void main(String[] args) {
 		System.out.println("Qualquer coisa menos Hello World!");
