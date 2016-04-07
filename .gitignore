@@ -1,4 +1,5 @@
 presentations/
 lists/
 *.class
+class-code/bin/
 class-code/.classpath
