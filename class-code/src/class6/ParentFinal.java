@@ -12,15 +12,15 @@ final public class ParentFinal {
 	}
 	
 	public static void main(String[] args) {
-		ChildFinal child = new ChildFinal("João");
-		child.getName();
+//		ChildFinal child = new ChildFinal("João");
+//		child.getName();
 	}
 }
 
 
-class ChildFinal extends ParentFinal{
-	public ChildFinal(String name){
-		super(name);
-	}
-
-}
+//class ChildFinal extends ParentFinal{
+//	public ChildFinal(String name){
+//		super(name);
+//	}
+//
+//}
