@@ -24,9 +24,9 @@ class Parent {
 		return "My Parent name";
 	}
 	
-	public static void changeFinal(int num) {
-		Parent.finalConstant = num;
-	}
+//	public static void changeFinal(int num) {
+//		Parent.finalConstant = num;
+//	}
 	
 }
 
@@ -36,9 +36,9 @@ class Child extends Parent {
 		super(name);
 	}
 	
-	public void changeName(String name) {
-		this.name = name;
-	}
+//	public void changeName(String name) {
+//		this.name = name;
+//	}
 
 
 //	public String getName() {
