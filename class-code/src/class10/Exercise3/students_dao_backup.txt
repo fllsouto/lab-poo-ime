@@ -1,0 +1,6 @@
+Student: [RollNo: 0, Name: Michael ]
+Student: [RollNo: 1, Name: Juliana ]
+Student: [RollNo: 2, Name: Afonso ]
+Student: [RollNo: 3, Name: Eduardo ]
+Student: [RollNo: 4, Name: Sansa ]
+Student: [RollNo: 5, Name: Arya ]
